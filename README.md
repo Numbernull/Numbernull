@@ -1,4 +1,4 @@
-# Hello. Welcome to Choong-geun Lee's GitHub. / [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnumbernull%2Fhit-counter&count_bg=%2379C83D&title_bg=%23A80D0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hello. Welcome to Choong-geun Lee's GitHub. 😄 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnumbernull%2Fhit-counter&count_bg=%2379C83D&title_bg=%23A80D0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 This is a profile that shows my introduction, and the content and skills I learned while preparing for a web developer. 👋
 
