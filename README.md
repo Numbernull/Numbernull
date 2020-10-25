@@ -2,8 +2,6 @@
 
 This is a profile that shows my introduction, and the content and skills I learned while preparing for a web developer. :ghost:
 
-font-face{font-family:'Nanum Barun Gothic';font-style:normal;font-weight:700;src:url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Bold.eot);src:url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Bold.eot?#iefix) format('embedded-opentype'),url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Bold.woff) format('woff'),url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Bold.ttf) format('truetype')}@font-face{font-family:'Nanum Barun Gothic';font-style:normal;font-weight:400;src:url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Regular.eot);src:url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Regular.eot?#iefix) format('embedded-opentype'),url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Regular.woff) format('woff'),url(//cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/v1/NanumBarunGothic-Regular.ttf) format('truetype');}
-
 <!--
 **Numbernull/Numbernull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
