@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello. Welcome to Choong-geun Lee's GitHub.
+
+This is a profile that shows my introduction, and the content and skills I learned while preparing for a web developer. 👋
 
 <!--
 **Numbernull/Numbernull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
