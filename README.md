@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with : I am looking for a mentor to help my Java web developer.
 
-# Git hub status
+# Git Hub Status
 
 ![Numbernull's github stats](https://github-readme-stats.vercel.app/api?username=Numbernull&show_icons=true)
 
