@@ -1,4 +1,4 @@
-### Hello. Welcome to Choong-geun Lee's GitHub.
+## Hello. Welcome to Choong-geun Lee's GitHub.
 
 --------------------------------------------
 
