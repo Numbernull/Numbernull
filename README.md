@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with : I am looking for a mentor to help my Java web developer.
 
-- I am a 26 year old male Korean. I don't speak English, 
-and the contents inside were translated through Google Translator. Hahaha, 
-I'm a high school graduate and I'm challenging because I want to get a job as a web developer as a non-major!
+
