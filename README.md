@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Numbernull's github stats](https://github-readme-stats.vercel.app/api?username=Numbernull&show_icons=true)
 
-# Skil
+# Skill
 
 # Project
 
