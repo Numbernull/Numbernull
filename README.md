@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Git Hub Status :books:
 
-![Numbernull's github stats](https://github-readme-stats.vercel.app/api?username=Numbernull&show_icons=true&theme=radical)
+![Numbernull's github stats](https://github-readme-stats.vercel.app/api?username=Numbernull&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Numbernull&layout=compact)](https://github.com/Numbernull/github-readme-stats)
 
