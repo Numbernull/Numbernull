@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ![Numbernull's github stats](https://github-readme-stats.vercel.app/api?username=Numbernull&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Numbernull)](https://github.com/Numbernull/github-readme-stats)
+
 # Skill
 
 # Project
